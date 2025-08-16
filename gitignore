@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Office/temporary
+~$*.pptx
+~$*.docx
+
+# Python caches (if you add scripts)
+__pycache__/
+*.pyc
+
+# Large raw captures (avoid committing pcap unless necessary)
+*.pcap
+*.pcapng
+*.cap
